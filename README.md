@@ -4,7 +4,7 @@
 お問い合わせしたい人が名前等を記入して、送信、修正できるアプリ
 管理システムで送信されたデータを確認することができる
 
-<a href="C:\Users\yra01\testapp\トップページ.jpeg">
+<img src="C:\Users\yra01\testapp\トップページ.jpeg">
 
 ##作成した目的
 
@@ -21,10 +21,10 @@
 
 ##テーブル設計
 
-<a href="C:\Users\yra01\testapp\テーブル設計.png">
+<img src="C:\Users\yra01\testapp\テーブル設計.png">
 
 ##ER図
-<a href="C:\Users\yra01\testapp\ER図.png">
+<img src="C:\Users\yra01\testapp\ER図.png">
 
 
 
